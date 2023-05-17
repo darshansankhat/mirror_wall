@@ -30,11 +30,11 @@ samples, guidance on mobile development, and a full API reference.
   
   <p>
   
-    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/52753917-32e0-47fb-a3ab-371763bd8efb" height="60%" width="30%">
-    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/b8c4dfbe-9675-4a26-ac88-c8c9b5ae829d" height="60%" width="30%">
-    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/206154e6-e12d-4494-803e-d5a6f10acaf6" height="60%" width="30%">
-    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/0b6f872a-7059-48ca-b295-f7b218a65a48" height="60%" width="30%">
-    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/1bb57c8d-53cf-41fb-bc7d-10b44b0b207d" height="60%" width="30%">
+    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/52753917-32e0-47fb-a3ab-371763bd8efb"height="60%"width="30%">
+    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/b8c4dfbe-9675-4a26-ac88-c8c9b5ae829d"height="60%"width="30%">
+    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/206154e6-e12d-4494-803e-d5a6f10acaf6"height="60%"width="30%">
+    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/0b6f872a-7059-48ca-b295-f7b218a65a48"height="60%"width="30%">
+    <img src="https://github.com/darshansankhat/mirror_wall/assets/119835050/1bb57c8d-53cf-41fb-bc7d-10b44b0b207d"height="60%"width="30%">
       
   </p>
   
